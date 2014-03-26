@@ -5,11 +5,15 @@
 Bruno Vieira | <i class="fa fa-twitter"></i> <a href="//twitter.com/bmpvieira" target="_blank">@bmpvieira</a> | <img style="width: 20%;" src="img/Queen_Mary,_University_of_London_logo.svg" />
 
 
-<a target="_blank" href="http://docker.io"><img style="width: 25%;" alt="docker" src="img/docker.png" /></a>
+<a target="_blank" href="http://docker.io"><img style="width: 20%;" alt="docker" src="img/docker.png" /></a>
 <a target="_blank" href="http://www.slideshare.net/dotCloud/docker-intro-november"><img style="padding-top: 5%; float: right; width: 65%;" alt="docker" src="img/docker-vm.png" />&nbsp;</a>
 
 <p style="line-height: .8em">
 <i style="font-size: .7em; vertical-align: middle;" class="fa fa-github-alt"></i><a href="http://github.com/yeban/afra"><span style="font-size: .7em; line-height: .7em;"> yeban/afra</span></a>
+</p>
+
+<p style="line-height: .8em">
+<i style="font-size: .7em; vertical-align: middle;" class="fa fa-github-alt"></i><a href="http://github.com/bionode/bionode"><span style="font-size: .7em; line-height: .7em;"> bionode/bionode</span></a>
 </p>
 
 <p style="line-height: .8em">

@@ -31,7 +31,7 @@ Bruno Vieira | <i class="fa fa-twitter"></i> <a href="//twitter.com/bmpvieira" t
 <div style="clear: both;"></div>
 
 ```bash
-docker run bmpvieira/thesis -name thesis_reproduce make
+docker run -name thesis_reproduce bmpvieira/thesis make
 ```
 
 <small>
